@@ -165,7 +165,7 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  githubConvertedToken: process.a36daa4c382359f029ef0655faf32e57d3437353,
+  githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
   githubUserName: "hackyguru", // Change to your github username to view your profile in Contact Section.
   showGithubProfile :"false" // Set true or false to show Contact profile using Github, defaults to false 
 };
@@ -177,10 +177,6 @@ const bigProjects = {
   title: "Appreciations / Hall Of Fames",
   subtitle: "I have been appreciated by the following organizations with a Certificate/Hall of Fame",
   projects: [
-    {
-      image: "https://i.ibb.co/ZdnzLJt/indiangov.png",
-      link: "http://india.gov.in/"
-    },
     {
       image: "https://i.ibb.co/sHvsxPt/forgesmall.png",
       link: "http://forgeforward.in/"
