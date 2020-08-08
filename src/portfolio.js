@@ -10,7 +10,7 @@ const greeting = {
   username: "Kumaraguru",
   title: "Hi all, I'm Guru!",
   subTitle: emoji("A passionate Ethical Hacker and Full Stack Developer 👨‍💻  having an experience of building Web and Mobile apps & breaking security. I also love ML , AI and UI/UX designing. Apart from technology , I love travel and adventure! 🎒 ❤️ "),
-  resumeLink: "https://drive.google.com/file/d/160lEV1zsiKXp0Z__jDujSDAdRI1rAv1J/view"
+  resumeLink: "https://raw.githubusercontent.com/hackyguru/portfolio/master/Kumaraguru%20T-Resume.pdf"
 };
 
 // Your Social Media Link
